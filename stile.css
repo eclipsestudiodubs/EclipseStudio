@@ -1716,7 +1716,7 @@ header {
 }
 
 .logo img {
-    content: url("imagens/logo.png");
+    content: url("logo.png");
     width: 180px;
     height: auto;
     object-fit: contain;
